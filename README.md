@@ -22,6 +22,10 @@
 >generate the html code neded to handle the route 'contact' and display the message passed in the return statement
 >![Screenshot from 2024-02-05 16-08-49](https://github.com/KadeWalsh/ai-generated-flask-webapp/assets/107522159/c83d4a6c-4b54-4f0c-b0a6-da92241fcd2f)
 
+### Add navbar to layout template (layout.html)
+>modify the code in 'layout.html' and add a navbar element across the top of the screen. The navbar needs to contain three links, one for home, the second for profile, and the third for contact. For now these links can have href='#'
+>![image](https://github.com/KadeWalsh/ai-generated-flask-webapp/assets/107522159/8a543bb9-2bcb-47bb-9cbe-3eeeb3717b12)
+
 
 ## NOTE:
 ### The ONLY CHANGES made to AI generated code were to import render_template and requests inside of myBlueprints.py instead of aiGenerated.py
