@@ -2,3 +2,5 @@
 /blackjack.py
 /mathProject.py
 .gitignore
+.env
+aiGenerated/__pycache__/
